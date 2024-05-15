@@ -1,6 +1,5 @@
 <img src="banner.gif" width = "325px" align = "right"/>
-# Anderson Oliveira
-
+## Anderson Oliveira
 ## About Me
 I am a passionate Java developer with 3 years of experience. I have a strong background in building scalable and high-performance applications using Java and related technologies. I am always eager to learn and explore new technologies to enhance my skills.
 
