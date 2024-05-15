@@ -1,3 +1,4 @@
+<img src="banner.gif" width = "325px"
 # Anderson Oliveira
 
 ## About Me
